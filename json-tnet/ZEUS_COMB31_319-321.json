@@ -1,0 +1,22 @@
+{
+  "721": {
+    "1493aec5309cba050e953e80209d5ea02d8dcd78cc18c0aca2dbe70b": {
+      "ZEUS319": {
+        "name": "ZEUS #319",
+        "image": "ipfs://QmSxxkNTcRTtPR9DAZkvCiCPk2LVJVM9tWd1Dxt491cVsb",
+        "description": "Golden Sword Zeus"
+      },
+      "ZEUS320": {
+        "name": "ZEUS #320",
+        "image": "ipfs://QmYav1SGucRZWP55w7bURrkn8tHX8xKp2cKixfpTqUtMGY",
+        "description": "Blue Cretan Force Zeus"
+        },
+      "ZEUS321": {
+        "name": "ZEUS #321",
+        "image": "ipfs://QmV5hGRDWFMmbgioFkTqatCX25VapQxVbcfsHMdooH7UrA",
+        "description": "Stone Blade Zeus"
+      
+      }
+    }
+  }
+}

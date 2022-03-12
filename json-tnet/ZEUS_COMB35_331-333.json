@@ -1,0 +1,22 @@
+{
+  "721": {
+    "1493aec5309cba050e953e80209d5ea02d8dcd78cc18c0aca2dbe70b": {
+      "ZEUS331": {
+        "name": "ZEUS #331",
+        "image": "ipfs://QmZC7aNZJdVdSS66vV29mYATvSoihFkQcayPtBFvJrWNCt",
+        "description": "Cretan Drip Knight Zeus"
+      },
+      "ZEUS332": {
+        "name": "ZEUS #332",
+        "image": "ipfs://QmYUS72nB3yigSj7hkL8bmaHpkD3Tya5Sz3Le7oSBnqqXK",
+        "description": "Red Lizzard Zeus"
+        },
+      "ZEUS333": {
+        "name": "ZEUS #333",
+        "image": "ipfs://QmYBEKLEVM7DBdY2L5B32zkGN6gRPfPWTAN9wAPjTUP6u8",
+        "description": "Green Bengal Rebel Zeus"
+      
+      }
+    }
+  }
+}

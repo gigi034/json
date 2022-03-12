@@ -1,0 +1,21 @@
+{
+  "721": {
+    "1493aec5309cba050e953e80209d5ea02d8dcd78cc18c0aca2dbe70b": {
+      "ZEUS316": {
+        "name": "ZEUS #316",
+        "image": "ipfs://QmNULGriq7TZADoxnFyfCHHrGrextd5y9fMTFwy1x2cCbS",
+        "description": "Purple Zeus"
+      },
+      "ZEUS317": {
+        "name": "ZEUS #317",
+        "image": "ipfs://QmaqFeJjVrQhMEfzedvxSCRsK1m33miZJD43FsCibrnQZw",
+        "description": "Django Cretan Zeus"
+      },
+      "ZEUS318": {
+        "name": "ZEUS #318",
+        "image": "ipfs://Qma9yfAJRK8omd1CwkvswAbVrsDeTiCSoxJYgPXjVD9Bwi",
+        "description": "Classy Modern Zeus"
+      }
+    }
+  }
+}

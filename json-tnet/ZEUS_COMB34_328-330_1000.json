@@ -1,0 +1,26 @@
+{
+  "721": {
+    "1493aec5309cba050e953e80209d5ea02d8dcd78cc18c0aca2dbe70b": {
+      "ZEUS1000": {
+        "name": "ZEUS #1000",
+        "image": "ipfs://QmXnV2rKcZG4nrUumrPuN1YJ7B1qTTRxxAfkXLmPAsahtZ",
+        "description": "Above Olympus Zeus"
+      },
+      "ZEUS328": {
+        "name": "ZEUS #328",
+        "image": "ipfs://QmPeWtkEcLS1z2bU4C4rMmwZnCunKkTsVigCmmme3E62v3",
+        "description": "Kareem Zeus"
+        },
+      "ZEUS329": {
+        "name": "ZEUS #329",
+        "image": "ipfs://QmVSfH18YeNiRZvcd2r8KRm2mrNdCudC8SW8KvsXpDthmU",
+        "description": "Army Thunder Zeus"
+      },
+      "ZEUS330": {
+        "name": "ZEUS #330",
+        "image": "ipfs://QmeEQ2HaM1g2R6BhUsocCftyHM8BQziZLvwh8LVCD3jcdB",
+        "description": "Undefeated Knight Zeus"
+      }
+    }
+  }
+}
